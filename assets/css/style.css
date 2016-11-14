@@ -4,7 +4,10 @@
           GENERAL
 
 ************************/
-body{
+#search-header{
+	border: solid 2px;
+}
+/*body{
 	background-color: #035E7B;
 }
 
@@ -14,14 +17,14 @@ form,
 input{
 	margin: 10px;
 	color: #035E7B;
-}
+}*/
 
 /************************
 
           Buttons
 
 ************************/
-button,
+/*button,
 #addShow{
 	color: #EFF1C5;
 	border-top: none;
@@ -37,30 +40,29 @@ button,
 button:hover{
 	color: #002E2C;
 	border-color: #002E2C;	
-}
+}*/
 /************************
 
         Input Field
 
 ************************/
-#showInput{
+/*#showInput{
 	font: 300 24px/150% "Open Sans Condensed", sans-serif;
 	color: #002E2C;	
 }
 
 #show-form{
-	position: fixed;
 	bottom: 0;
 	right: 0;
 }
-
+*/
 /************************
 
    Area with added Gifs
 
 ************************/
 
-.showGif{
+/*.showGif{
 	display: inline-block;	
 	vertical-align: top;
 	color: #EFF1C5;
@@ -73,4 +75,4 @@ img{
 	padding: 20px;
 	clear: both;
 	margin: 20px;
-}
+}*/
